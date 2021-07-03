@@ -2,6 +2,6 @@
     "values": [
         "cake:essentials",
         "cake:technical",
-        "cake:mobkills"
+        "cake:player/mobkills"
     ]
 }
