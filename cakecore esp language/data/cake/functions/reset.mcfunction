@@ -28,4 +28,14 @@ scoreboard players reset @a pigbruteskilled
 scoreboard players reset @a zombiglinskilled
 scoreboard players reset @a hoglinskilled
 scoreboard players reset @a zoglinskilled
+scoreboard players reset @a batskilled
+scoreboard players reset @a beeskilled
+scoreboard players reset @a blazeskilled
+scoreboard players reset @a wskeletonskilled
+scoreboard players reset @a witherskilled
+scoreboard players reset @a evokerskilled
+scoreboard players reset @a pillagerskilled
+scoreboard players reset @a vndicatorskilled
+scoreboard players reset @a endragonskilled
+scoreboard players reset @a huskskilled
 tellraw @a {"text":"CakeCore reestablecido correctamente"}

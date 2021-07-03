@@ -26,4 +26,14 @@ scoreboard objectives remove pigbruteskilled
 scoreboard objectives remove zombiglinskilled
 scoreboard objectives remove hoglinskilled
 scoreboard objectives remove zoglinskilled
+scoreboard objectives remove batskilled
+scoreboard objectives remove beeskilled
+scoreboard objectives remove blazeskilled
+scoreboard objectives remove wskeletonskilled
+scoreboard objectives remove witherskilled
+scoreboard objectives remove evokerskilled
+scoreboard objectives remove pillagerskilled
+scoreboard objectives remove vndicatorskilled
+scoreboard objectives remove endragonskilled
+scoreboard objectives remove huskskilled
 tellraw @a {"text":"Los scoreboards de CakeCore han sido desinstalados, pero como paso final por favor ejecuta /datapack disable (nombre de archivo del datapack) para que se desinstalen las funciones de CakeCore por completo"}
