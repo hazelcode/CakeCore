@@ -1,0 +1,3 @@
+function cakecore:essentials
+function cakecore:technical
+tellraw @a {"text":"[CakeCore] CakeCore cargado!","color":"green"}

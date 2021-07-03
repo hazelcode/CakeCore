@@ -1,0 +1,1 @@
+tellraw @a {"text":"[CakeCore] Lo sentimos, no hay pruebas disponibles en esta version, por favor intentelo en otra nueva versión, gracias","color":"red"}
