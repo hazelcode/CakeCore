@@ -11,4 +11,7 @@ scoreboard objectives remove cakekillscount
 scoreboard objectives remove cakeplayerdeaths
 scoreboard objectives remove cakeplayerkills
 scoreboard objectives remove caketime
+scoreboard objectives remove creeperskilled
+scoreboard objectives remove skeletonskilled
+scoreboard objectives remove zombieskilled
 tellraw @a {"text":"CakeCore reseted correctly!"}
