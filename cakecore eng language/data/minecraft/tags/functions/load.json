@@ -1,5 +1,7 @@
 {
     "values": [
-        "cake:load"
+        "cake:essentials",
+        "cake:technical",
+        "cake:player/mobkills"
     ]
 }
