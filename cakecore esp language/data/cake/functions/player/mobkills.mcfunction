@@ -17,4 +17,14 @@ scoreboard objectives add pigbruteskilled killed:piglin_brute {"text":"CakeCore:
 scoreboard objectives add zombiglinskilled killed:zombified_piglin {"text":"CakeCore: Zombified piglins killed"}
 scoreboard objectives add hoglinskilled killed:hoglin {"text":"CakeCore: Hoglins killed"}
 scoreboard objectives add zoglinskilled killed:zoglin {"text":"CakeCore: Zoglins killed"}
+scoreboard objectives add batskilled killed:bat {"text":"CakeCore: Bats killed"}
+scoreboard objectives add beeskilled killed:bee {"text":"CakeCore: Bees killed"}
+scoreboard objectives add blazeskilled killed:blaze {"text":"CakeCore: Blazes killed"}
+scoreboard objectives add wskeletonskilled killed:wither_skeleton {"text":"CakeCore: Wither skeletons killed"}
+scoreboard objectives add witherskilled killed:wither {"text":"CakeCore: Withers killed"}
+scoreboard objectives add evokerskilled killed:evoker {"text":"CakeCore: Evokers killed"}
+scoreboard objectives add pillagerskilled killed:pillager {"text":"CakeCore: Pillagers killed"}
+scoreboard objectives add vndicatorskilled killed:vindicator {"text":"Vindicators killed"}
+scoreboard objectives add endragonskilled killed:ender_dragon {"text":"CakeCore: Ender dragons killed"}
+scoreboard objectives add huskskilled killed:husk {"text":"CakeCore: Husks killed"}
 tellraw @a {"text":"[CakeCore] Funciones de matanzas de mobs cargadas"}
