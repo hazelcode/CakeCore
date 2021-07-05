@@ -6,7 +6,7 @@ Please first select a language to apply to your minecraft world
 cakecore esp language = Spanish (Espa�ol)
 cakecore eng language = English (English)
 
-Please ***do not download code from main page***, only the [releases publised](github.com/tacozyt/CakeCore/releases) in the GitHub repository's releases page
+Please ***do not download code from main page***, only the [releases publised](https://github.com/tacozyt/CakeCore/releases) in the GitHub repository's releases page
 
 Move the language datapack tou your world's datapacks folder
 Note: Please only download the datapack.
