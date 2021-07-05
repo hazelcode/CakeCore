@@ -14,7 +14,7 @@ Select a release and open Assets
 
 We do not recommend download `Source Code` options, only `CakeCore` options, example: `CakeCore.v0.1.7.zip`
 
-Move the language datapack tou your world's datapacks folder
+Move the language datapack to your world's datapacks folder
 
 Note: Please only download the datapack.
 
