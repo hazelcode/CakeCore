@@ -7,6 +7,7 @@ cakecore esp language = Spanish (Espa�ol)
 cakecore eng language = English (English)
 
 Please ***do not download code from main page***, only the [releases publised](https://github.com/tacozyt/CakeCore/releases) in the GitHub repository's releases page
+Select a release and open Assets
 We do not recommend download `Source Code` options, only `CakeCore` options, example: `CakeCore.v0.1.7.zip`
 
 Move the language datapack tou your world's datapacks folder
