@@ -18,11 +18,19 @@ Discord: ElTaquito#2093
 
 
 The next scoreboards has incomplete names only for bugs (I can't write much long scoreboard names)
+
 Zombie villagers killed = zvillagerskilled
+
 Cave spiders killed = cvspiderskilled
+
 Silverfishes killed = silvfisheskilled
+
 Piglin brutes killed = pigbruteskilled
+
 Zombified piglins killed = zombiglinskilled
+
 Wither skeletons killed = wskeletonskilled
+
 Vindicators killed = vndicatorskilled
+
 Ender dragons killed = endragonskilled
