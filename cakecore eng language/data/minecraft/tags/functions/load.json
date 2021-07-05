@@ -3,5 +3,6 @@
         "cake:essentials",
         "cake:technical",
         "cake:player/mobkills"
+        "cake:version"
     ]
 }
