@@ -44,5 +44,3 @@ Wither skeletons killed = wskeletonskilled
 Vindicators killed = vndicatorskilled
 
 Ender dragons killed = endragonskilled
-
-`new test`
