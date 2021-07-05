@@ -30,5 +30,5 @@ Discord: ElTaquito#2093
 The next scoreboards has incomplete names only for bugs (I can't write much long scoreboard names)
 There are some scoreboards that have incomplete names, please check the list of mobs killed by a player on the [datapack wiki](https://github.com/tacozyt/CakeCore/wiki)
 
-# Datapack's wiki:
+# Datapacks wiki:
 [Wiki](https://github.com/tacozyt/CakeCore/wiki)
