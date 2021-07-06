@@ -27,20 +27,8 @@ Discord: ElTaquito#2093
 # Please be careful
 
 
-The next scoreboards has incomplete names only for bugs (I can't write much long scoreboard names)
+Some scoreboards has incomplete names only for bugs (I can't write much long scoreboard names)
+There are some scoreboards that have incomplete names, please check the list of mobs killed by a player on the [datapack wiki](https://github.com/tacozyt/CakeCore/wiki)
 
-Zombie villagers killed = zvillagerskilled
-
-Cave spiders killed = cvspiderskilled
-
-Silverfishes killed = silvfisheskilled
-
-Piglin brutes killed = pigbruteskilled
-
-Zombified piglins killed = zombiglinskilled
-
-Wither skeletons killed = wskeletonskilled
-
-Vindicators killed = vndicatorskilled
-
-Ender dragons killed = endragonskilled
+# Datapacks wiki:
+[Wiki](https://github.com/tacozyt/CakeCore/wiki)
