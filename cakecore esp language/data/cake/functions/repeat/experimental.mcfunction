@@ -1,2 +1,2 @@
-execute as @a[scores={experimentalach=1}] run title @a actionbar {"text":"@a[scores={experimentalach=1}] completed the achievement EXPERIMENTAL","color":"green"}
-scoreboard players reset @a[scores={experimentalach=1}] experimentalach
+execute as @a[scores={experimentalach=1}] run title @a[scores={experimentalach=1}] actionbar {"text":"You completed the achievement EXPERIMENTAL","color":"green"}
+scoreboard players set @a[scores={experimentalach=1}] experimentalach 2
