@@ -4,4 +4,16 @@ scoreboard objectives add ironpickaxeused used:iron_pickaxe
 scoreboard objectives add goldenpickused used:golden_pickaxe
 scoreboard objectives add diamondpickused used:diamond_pickaxe
 scoreboard objectives add netherpickused used:netherite_pickaxe
+scoreboard objectives add woodenaxeused used:wooden_axe
+scoreboard objectives add stoneaxeused used:stone_axe
+scoreboard objectives add ironaxeused used:iron_axe
+scoreboard objectives add goldenaxe used:golden_axe
+scoreboard objectives add diamondaxeused used:diamond_axe
+scoreboard objectives add netheriteaxeused used:netherite_axe
+scoreboard objectives add woodenswordused used:wooden_sword
+scoreboard objectives add stoneswordused used:stone_sword
+scoreboard objectives add ironswordused used:iron_sword
+scoreboard objectives add goldenswordused used:golden_sword
+scoreboard objectives add diamondswordused used:diamond_sword
+scoreboard objectives add netherswordused used:netherite_sword
 tellraw @a {"text":"Used tools loaded"}
