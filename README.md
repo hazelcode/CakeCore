@@ -23,6 +23,12 @@ But you can recommend a new function, and please share me your function to my Di
 # Social media:
 Discord: ElTaquito#2093
 
+Twitter: @SteveDeMaincra1
+
+You can send me suggestions for this datapack
+
+Puedes enviarme sugerencias para éste datapack
+
 
 # Please be careful
 
@@ -30,5 +36,5 @@ Discord: ElTaquito#2093
 Some scoreboards has incomplete names only for bugs (I can't write much long scoreboard names)
 There are some scoreboards that have incomplete names, please check the list of mobs killed by a player on the [datapack wiki](https://github.com/tacozyt/CakeCore/wiki)
 
-# Datapacks wiki:
+# Datapack wiki:
 [Wiki](https://github.com/tacozyt/CakeCore/wiki)
