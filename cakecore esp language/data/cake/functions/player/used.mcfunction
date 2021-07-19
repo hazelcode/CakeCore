@@ -16,4 +16,16 @@ scoreboard objectives add ironswordused used:iron_sword
 scoreboard objectives add goldenswordused used:golden_sword
 scoreboard objectives add diamondswordused used:diamond_sword
 scoreboard objectives add netherswordused used:netherite_sword
+scoreboard objectives add woodenshovelused used:wooden_shovel
+scoreboard objectives add stoneshovelused used:stone_shovel
+scoreboard objectives add ironshovelused used:iron_shovel
+scoreboard objectives add goldenshovelused used:golden_shovel
+scoreboard objectives add diamondshovlused used:diamond_shovel
+scoreboard objectives add nethershovelused used:netherite_shovel
+scoreboard objectives add woodenhoeused used:wooden_hoe
+scoreboard objectives add stonehoeused used:stone_hoe
+scoreboard objectives add ironhoeused used:iron_hoe
+scoreboard objectives add goldenhoeused used:golden_hoe
+scoreboard objectives add diamondhoeused used:diamond_hoe
+scoreboard objectives add netheritehoeused used:netherite_hoe
 tellraw @a {"text":"Herramientas usadas cargadas"}
