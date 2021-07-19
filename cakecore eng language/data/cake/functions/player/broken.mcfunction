@@ -9,4 +9,8 @@ scoreboard objectives add oaklogbroken broken:oak_log {"text":"Oak log broken"}
 scoreboard objectives add oakwoodbroken broken:oak_wood {"text":"Oak wood broken"}
 scoreboard objectives add diamondorebroken broken:diamond_ore {"text":"Diamond ore broken"}
 scoreboard objectives add cakebroken broken:cake {"text":"Cake broken"}
+scoreboard objectives add grassblockbroken broken:grass_block {"text":"Grass block broken"}
+scoreboard objectives add grassbroken broken:grass {"text":"Grass broken"}
+scoreboard objectives add tallgrassbroken broken:tall_grass {"text":"Tall grass broken"}
+scoreboard objectives add obsidianbroken broken:obsidian {"text":"Obsidian broken"}
 tellraw @a {"text":"Broken blocks loaded"}
