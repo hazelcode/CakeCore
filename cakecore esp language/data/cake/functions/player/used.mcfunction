@@ -7,7 +7,7 @@ scoreboard objectives add netherpickused used:netherite_pickaxe
 scoreboard objectives add woodenaxeused used:wooden_axe
 scoreboard objectives add stoneaxeused used:stone_axe
 scoreboard objectives add ironaxeused used:iron_axe
-scoreboard objectives add goldenaxe used:golden_axe
+scoreboard objectives add goldenaxeused used:golden_axe
 scoreboard objectives add diamondaxeused used:diamond_axe
 scoreboard objectives add netheriteaxeused used:netherite_axe
 scoreboard objectives add woodenswordused used:wooden_sword

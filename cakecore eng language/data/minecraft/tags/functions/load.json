@@ -5,7 +5,6 @@
         "cake:player/hp",
         "cake:player/mobkills",
         "cake:player/used",
-        "cake:player/broken",
         "cake:version"
     ]
 }
