@@ -53,5 +53,20 @@ I recommend apply the new features and prove the updated datapack creation in a 
 When the datapack be functional with the new CakeCore version, please release the new datapack version specifying the new CakeCore version required to work 100% functional.
 
 
+WARNING! CakeCore maybe not loaded automatically.
+
+Please add `"cake:load",` in the first line of the section `"values"` in your datapack's load.json file (`data\minecraft\tags\functions\load.json`).
+
+For example:
+
+{
+    "values": [
+        "cake:load",
+        "sirenh:effects",
+    ]
+}
+
+
+
 # Datapack wiki:
 [Wiki](https://github.com/tacozyt/CakeCore/wiki)
