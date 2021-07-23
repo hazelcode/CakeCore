@@ -4,7 +4,6 @@
         "cake:technical",
         "cake:player/hp",
         "cake:player/mobkills",
-        "cake:player/used",
         "cake:version"
     ]
 }
