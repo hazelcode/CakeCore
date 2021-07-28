@@ -6,3 +6,4 @@ function cake:player/used
 function cake:player/broken
 function cake:version
 tellraw @a {"text":"[CakeCore] CakeCore cargado!","color":"green"}
+playsound minecraft:block.note_block.bell master @a

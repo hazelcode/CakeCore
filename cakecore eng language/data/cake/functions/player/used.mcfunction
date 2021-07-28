@@ -29,3 +29,4 @@ scoreboard objectives add goldenhoeused used:golden_hoe
 scoreboard objectives add diamondhoeused used:diamond_hoe
 scoreboard objectives add netheritehoeused used:netherite_hoe
 tellraw @a {"text":"Used tools loaded"}
+playsound minecraft:block.stone_button.click_on master @a
