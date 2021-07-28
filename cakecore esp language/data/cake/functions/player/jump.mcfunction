@@ -1,0 +1,1 @@
+scoreboard objectives add jump custom:jump {"text":"Jump","color":"Yellow"}
