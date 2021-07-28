@@ -68,3 +68,4 @@ scoreboard objectives remove diamondhoeused
 scoreboard objectives remove netheritehoeused
 scoreboard objectives remove hp
 tellraw @a {"text":"The CakeCore scoreboards has been uninstalled, but how a final step please execute /datapack disable (datapack folder name) to uninstall the CakeCore datapack completely"}
+playsound minecraft:entity.creeper.primed master @a

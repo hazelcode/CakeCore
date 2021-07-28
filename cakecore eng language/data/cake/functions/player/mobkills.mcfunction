@@ -28,3 +28,4 @@ scoreboard objectives add vndicatorskilled killed:vindicator {"text":"Vindicator
 scoreboard objectives add endragonskilled killed:ender_dragon {"text":"CakeCore: Ender dragons killed"}
 scoreboard objectives add huskskilled killed:husk {"text":"CakeCore: Husks killed"}
 tellraw @a {"text":"[CakeCore] Mob kills functions loaded"}
+playsound minecraft:block.soul_sand.break master @a
