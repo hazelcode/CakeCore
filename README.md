@@ -1,4 +1,4 @@
-# CakeCore
+﻿# CakeCore
  
 
 Please take care:
@@ -21,7 +21,9 @@ Note: Please only download the datapack.
 But you can recommend a new function, and please share me your function to my Discord
 
 # Social media:
-Discord: ElTaquito#2093
+Discord: SteveDeMaincra2.0#1662
+
+**OUR DISCORD SERVER**: discord.gg/F7XjSMgRuH
 
 Twitter: @SteveDeMaincra1
 

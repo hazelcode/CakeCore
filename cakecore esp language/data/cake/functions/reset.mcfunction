@@ -69,3 +69,4 @@ scoreboard players reset @a goldenhoeused
 scoreboard players reset @a diamondhoeused
 scoreboard players reset @a netheritehoeused
 tellraw @a {"text":"CakeCore reestablecido correctamente"}
+playsound minecraft:block.note_block.xylophone master @a

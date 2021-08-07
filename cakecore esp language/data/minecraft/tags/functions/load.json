@@ -1,10 +1,5 @@
 {
     "values": [
-        "cake:essentials",
-        "cake:technical",
-        "cake:player/hp",
-        "cake:player/mobkills",
-        "cake:player/used",
-        "cake:version"
+        "cake:load"
     ]
 }
