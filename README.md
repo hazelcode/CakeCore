@@ -23,6 +23,10 @@ But you can recommend a new function, and please share me your function to my Di
 # Social media:
 Discord: SteveDeMaincra2.0#1662
 
+# Instatus page
+
+https://cakecore.instatus.com/
+
 **OUR DISCORD SERVER**: discord.gg/F7XjSMgRuH
 
 Twitter: @SteveDeMaincra1
