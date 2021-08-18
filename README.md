@@ -31,6 +31,10 @@ You can send me suggestions for this datapack
 
 Puedes enviarme sugerencias para éste datapack
 
+# Instatus page
+
+https://cakecore.instatus.com/
+
 
 # Please be careful
 
