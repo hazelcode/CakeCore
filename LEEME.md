@@ -38,21 +38,21 @@ https://cakecore.instatus.com/
 
 Dentro de un futuro terminaré de traducir **todo**.
 
-# Please be careful
+# Por favor sea cuidadoso
 
 
-Some scoreboards has incomplete names only for bugs (I can't write much long scoreboard names)
-There are some scoreboards that have incomplete names, please check the list of mobs killed by a player on the [datapack wiki](https://github.com/tacozyt/CakeCore/wiki)
+Algunos scoreboards tienen nombres incompletos solo por bugs (No puedo escribir nombres de scoreboard muy largos)
+Aquí hay algunos scoreboards que tienen nombres imcompletos, por favor cheque la lista de mobs matados por un jugador en la [wiki del datapack](https://github.com/tacozyt/CakeCore/wiki) (sólo en inglés, lo siento)
 
 
-Please keep CakeCore updated in your datapack creation
+Por favor mantén CakeCore actualizado en tu creación de datapack
 
-CakeCore updates usually contains new functions and bug fixes (or content fixes)
-
-
-You (How a datapacks creator/maker) need to specify the CakeCore version needed for your datapack, if you create a datapack with CakeCore v0.1.5 functions (for example), you need to specify: This datapack needs CakeCore v0.1.5 to work 100% functional. (for example).
+Las actualizaciones de CakeCore usualmente contienen nuevas funciones y arreglos de bugs (o arreglos de contenidos)
 
 
+Tú (Como un creador de datapacks) necesitas especificar la version de CakeCore necesitada para tu datapack, si tú creas un datapack con las funciones de CakeCore v0.1.5 (por ejemplo), necesitas especificar: Éste datapack necesita CakeCore v0.1.5 para trabajar 100% funcional. (por ejemplo).
+
+## No traducido
 If you update your datapack creation with a newest CakeCore version, please check the official CakeCore wiki [(CakeCore wiki)](https://github.com/tacozyt/CakeCore/wiki) and check all the contents and articles, update scoreboards, functions, etc, and apply/replace old features (Scoreboards, functions, etc) in your updated datapack creation.
 
 
