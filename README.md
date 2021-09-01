@@ -51,7 +51,7 @@ CakeCore updates usually contains new functions and bug fixes (or content fixes)
 You (How a datapacks creator/maker) need to specify the CakeCore version needed for your datapack, if you create a datapack with CakeCore v0.1.5 functions (for example), you need to specify: This datapack needs CakeCore v0.1.5 to work 100% functional. (for example).
 
 
-If you update your datapack creation with a newest CakeCore version, please check the official CakeCore wiki [(CakeCore wiki)](https://github.com/tacozyt/CakeCore/wiki) and check all the contents and articles, update scoreboards, functions, etc, and apply/replace old features (Scoreboards, functions, etc) in your updated datapack creation.
+If you update your datapack creation with a newer CakeCore version, please check the official CakeCore wiki [(CakeCore wiki)](https://github.com/tacozyt/CakeCore/wiki) and check all the contents and articles, update scoreboards, functions, etc, and apply/replace old features (Scoreboards, functions, etc) in your updated datapack creation.
 
 
 I recommend apply the new features and prove the updated datapack creation in a test world (With the new CakeCore version), replace and rewrite wrong lines and spaces (and files of your datapack creation in a hard case).
