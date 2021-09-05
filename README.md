@@ -1,5 +1,5 @@
 ﻿# CakeCore
- 
+[CakeCore logo](imagenes/cakecore.png)
 
 Please take care:
 Please first select a language to apply to your minecraft world
