@@ -1,5 +1,5 @@
 ﻿# CakeCore
- 
+
 
 Por favor ten cuidado:
 Por favor primero seleccione un idioma para aplicar a tu mundo de Minecraft
@@ -52,10 +52,10 @@ Las actualizaciones de CakeCore usualmente contienen nuevas funciones y arreglos
 
 Tú (Como un creador de datapacks) necesitas especificar la version de CakeCore necesitada para tu datapack, si tú creas un datapack con las funciones de CakeCore v0.1.5 (por ejemplo), necesitas especificar: Éste datapack necesita CakeCore v0.1.5 para trabajar 100% funcional. (por ejemplo).
 
+
+Si tú actualizas tu creación de datapack con una versión más nueva de CakeCore, por favor checa la wiki oficial de CakeCore [(Wiki de CakeCore)](https://github.com/tacozyt/CakeCore/wiki) y checa todos los contenidos y artículos, actualiza scoreboards, funciones, etc, y aplica/reemplaza características antiguas (Scoreboards, funciones, etc) en tu creación de datapack actualizada.
+
 ## No traducido
-If you update your datapack creation with a newest CakeCore version, please check the official CakeCore wiki [(CakeCore wiki)](https://github.com/tacozyt/CakeCore/wiki) and check all the contents and articles, update scoreboards, functions, etc, and apply/replace old features (Scoreboards, functions, etc) in your updated datapack creation.
-
-
 I recommend apply the new features and prove the updated datapack creation in a test world (With the new CakeCore version), replace and rewrite wrong lines and spaces (and files of your datapack creation in a hard case).
 
 When the datapack be functional with the new CakeCore version, please release the new datapack version specifying the new CakeCore version required to work 100% functional.
