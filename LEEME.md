@@ -1,5 +1,5 @@
-﻿# CakeCore
-![Logo de CakeCore](imagenes/cakecore.png)
+﻿# CakeCore ![Logo de CakeCore](imagenes/cakecore.png)
+
 
 Por favor ten cuidado:
 Por favor primero seleccione un idioma para aplicar a tu mundo de Minecraft
