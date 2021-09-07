@@ -1,5 +1,6 @@
 {
     "values": [
-        "cake:load"
+        "cake:load",
+        "steveapi:load"
     ]
 }
