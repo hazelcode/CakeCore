@@ -34,11 +34,7 @@ Puedes enviarme sugerencias para éste datapack
 https://cakecore.instatus.com/
 
 
-**NO ESTÁ TRADUCIDO AL COMPLETO, LO SIENTO**
-
-Dentro de un futuro terminaré de traducir **todo**.
-
-# Por favor sea cuidadoso
+# Por favor sé cuidadoso(a)
 
 
 Algunos scoreboards tienen nombres incompletos solo por bugs (No puedo escribir nombres de scoreboard muy largos)
@@ -55,17 +51,18 @@ Tú (Como un creador de datapacks) necesitas especificar la version de CakeCore 
 
 Si tú actualizas tu creación de datapack con una versión más nueva de CakeCore, por favor checa la wiki oficial de CakeCore [(Wiki de CakeCore)](https://github.com/tacozyt/CakeCore/wiki) y checa todos los contenidos y artículos, actualiza scoreboards, funciones, etc, y aplica/reemplaza características antiguas (Scoreboards, funciones, etc) en tu creación de datapack actualizada.
 
-## No traducido
-I recommend apply the new features and prove the updated datapack creation in a test world (With the new CakeCore version), replace and rewrite wrong lines and spaces (and files of your datapack creation in a hard case).
 
-When the datapack be functional with the new CakeCore version, please release the new datapack version specifying the new CakeCore version required to work 100% functional.
+Recomiendo aplicar las nuevas características y probar la creación de datapack actualizada en un mundo de prueba (Con la nueva versión de CakeCore), reemplaza y sobreescribe las lineas incorrectas y espacios (y archivos de tu creación de datapack en un caso difícil).
 
-
-WARNING! Necessary: CakeCore maybe not loaded automatically.
-
-Please add `"cake:load",` in the first line of the section `"values"` in your datapack's load.json file (`data\minecraft\tags\functions\load.json`).
+Cuando el datapack sea funcional con la nueva versión de CakeCore, por favor lanza la nueva versión del datapack especificando la nueva versión de CakeCore requerida para trabajar 100% funcional.
 
 
+ADVERTENCIA! Necesario: CakeCore podría no cargarse automáticamente.
 
-# Datapack wiki:
+Por favor agrega `"cake:load",` en la primera linea de la sección `"values"` en el archivo load.json de tu datapack (`data\minecraft\tags\functions\load.json`).
+
+
+
+# Wiki del datapack
 [Wiki](https://github.com/tacozyt/CakeCore/wiki)
+(**sólo en inglés**)

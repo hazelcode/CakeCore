@@ -65,5 +65,5 @@ Please add `"cake:load",` in the first line of the section `"values"` in your da
 
 
 
-# Datapack wiki:
+# Datapack's wiki
 [Wiki](https://github.com/tacozyt/CakeCore/wiki)
