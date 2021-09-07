@@ -67,5 +67,7 @@ scoreboard objectives remove goldenhoeused
 scoreboard objectives remove diamondhoeused
 scoreboard objectives remove netheritehoeused
 scoreboard objectives remove hp
+scoreboard objectives remove muertesAPI
+scoreboard objectives remove opTest
 tellraw @a {"text":"Los scoreboards de CakeCore han sido desinstalados, pero como paso final por favor ejecuta /datapack disable (nombre de archivo del datapack) para que se desinstalen las funciones de CakeCore por completo"}
 playsound minecraft:entity.creeper.primed master @a
