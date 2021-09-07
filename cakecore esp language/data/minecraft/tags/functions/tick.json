@@ -1,6 +1,7 @@
 {
     "values": [
         "cake:repeat/caketime",
-        "cake:repeat/experimental"
+        "cake:repeat/experimental",
+        "steveapi:main"
     ]
 }
