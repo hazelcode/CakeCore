@@ -1,0 +1,12 @@
+execute at @s[y=12] run title @p actionbar {"text":"You are walking on cape 12"}
+execute at @s[y=11] run title @p actionbar {"text":"You are walking on cape 11"}
+execute at @s[y=10] run title @p actionbar {"text":"You are walking on cape 10"}
+execute at @s[y=9] run title @p actionbar {"text":"You are walking on cape 9"}
+execute at @s[y=8] run title @p actionbar {"text":"You are walking on cape 8"}
+execute at @s[y=7] run title @p actionbar {"text":"You are walking on cape 7"}
+execute at @s[y=6] run title @p actionbar {"text":"You are walking on cape 6"}
+execute at @s[y=5] run title @p actionbar {"text":"You are walking on cape 5"}
+execute at @s[y=4] run title @p actionbar {"text":"You are walking on cape 4"}
+execute at @s[y=3] run title @p actionbar {"text":"You are walking on cape 3"}
+execute at @s[y=2] run title @p actionbar {"text":"You are walking on cape 2"}
+execute at @s[y=1] run title @p actionbar {"text":"You are walking on cape 1"}
