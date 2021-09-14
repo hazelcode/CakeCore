@@ -2,8 +2,6 @@
     "values": [
         "cake:repeat/caketime",
         "cake:repeat/experimental",
-        "cake:repeat/titleconfig",
-        "cake:repeat/cape",
         "steveapi:main"
     ]
 }
