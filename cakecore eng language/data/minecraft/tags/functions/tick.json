@@ -1,6 +1,18 @@
 {
     "values": [
         "cake:repeat/caketime",
+<<<<<<< HEAD
+<<<<<<< Updated upstream
         "cake:repeat/experimental"
+=======
+        "cake:repeat/experimental",
+        "cake:repeat/langforall",
+        "cake:lang",
+        "steveapi:main"
+>>>>>>> Stashed changes
+=======
+        "cake:repeat/experimental",
+        "steveapi:main"
+>>>>>>> aec4be79bcaa657bcf5f2c15e41a5abd198ca225
     ]
 }
