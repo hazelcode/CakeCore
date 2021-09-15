@@ -27,5 +27,6 @@ scoreboard objectives add pillagerskilled killed:pillager {"text":"CakeCore: Pil
 scoreboard objectives add vndicatorskilled killed:vindicator {"text":"Vindicators killed"}
 scoreboard objectives add endragonskilled killed:ender_dragon {"text":"CakeCore: Ender dragons killed"}
 scoreboard objectives add huskskilled killed:husk {"text":"CakeCore: Husks killed"}
-tellraw @a {"text":"[CakeCore] Mob kills functions loaded"}
+execute as @r[scores={lang=..1}] run tellraw @a {"text":"[CakeCore] Mob kills functions loaded"}
+execute as @r[scores={lang=2}] run tellraw @a {"text":"[CakeCore] Funciones de matanzas de mobs cargadas"}
 playsound minecraft:block.soul_sand.break master @a

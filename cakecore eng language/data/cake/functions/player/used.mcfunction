@@ -28,5 +28,6 @@ scoreboard objectives add ironhoeused used:iron_hoe
 scoreboard objectives add goldenhoeused used:golden_hoe
 scoreboard objectives add diamondhoeused used:diamond_hoe
 scoreboard objectives add netheritehoeused used:netherite_hoe
-tellraw @a {"text":"Used tools loaded"}
+execute as @r[scores={lang=..1}] run tellraw @a {"text":"[CakeCore] Used tools loaded","color":"yellow"}
+execute as @r[scores={lang=2}] run tellraw @a {"text":"[CakeCore] Herramientas usadas cargadas","color":"yellow"}
 playsound minecraft:block.stone_button.click_on master @a

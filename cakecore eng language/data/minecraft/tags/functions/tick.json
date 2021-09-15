@@ -2,6 +2,8 @@
     "values": [
         "cake:repeat/caketime",
         "cake:repeat/experimental",
+        "cake:repeat/langforall",
+        "cake:lang",
         "steveapi:main"
     ]
 }
