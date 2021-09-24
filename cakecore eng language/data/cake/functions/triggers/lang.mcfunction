@@ -1,5 +1,5 @@
 ﻿scoreboard players enable @a lang
-execute as @a[scores={lang=1..}]tellraw @s {"text":"Remember: 1 is English, and 2 is Spanish"}
+execute as @a[scores={lang=1..}] run tellraw @s {"text":"Remember: 1 is English, and 2 is Spanish"}
 execute as @a[scores={lang=..-1}] run tellraw @s {"text":"Incorrect use of the command, Remember: 1 is English, and 2 is Spanish","color":"red"}
 execute as @a[scores={lang=3..}] run tellraw @s {"text":"Incorrect use of the command, Remember: 1 is English, and 2 is Spanish","color":"red"}
 execute as @a[scores={lang=3..}] run scoreboard players reset @a lang
