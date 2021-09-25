@@ -71,4 +71,5 @@ scoreboard players reset @a netheritehoeused
 scoreboard players reset @a opTest
 scoreboard players reset @a muertesAPI
 tellraw @a {"text":"CakeCore reseted correctly!"}
+tellraw @a {"text":"CakeCore reestablecido correctamente"}
 playsound minecraft:block.note_block.xylophone master @a
