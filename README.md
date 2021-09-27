@@ -2,11 +2,11 @@
 
 
 Please take care:
-Please first select a language to apply to your minecraft world
+Please first select a language to apply to your minecraft world, this is a command to set the CakeCore language
 
-cakecore esp language = Spanish (Español)
+/trigger lang set 1 = English
 
-cakecore eng language = English (English)
+/trigger lang set 2 = Spanish
 
 Please ***do not download code from main page***, only the [releases publised](https://github.com/tacozyt/CakeCore/releases) in the GitHub repository's releases page
 

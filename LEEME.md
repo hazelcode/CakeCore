@@ -2,11 +2,11 @@
 
 
 Por favor ten cuidado:
-Por favor primero seleccione un idioma para aplicar a tu mundo de Minecraft
+Por favor primero seleccione un idioma para aplicar a tu mundo de Minecraft, este es un comando para establecer el idioma de CakeCore
 
-cakecore esp language = Español
+/trigger lang set 1 = Inglés
 
-cakecore eng language = Inglés (English)
+/trigger lang set 2 = Español
 
 Por favor ***no descargues el código desde la página principal***, sólo las [versiones publicadas](https://github.com/tacozyt/CakeCore/releases) en ésta página de lanzamientos del repositorio de GitHub.
 
