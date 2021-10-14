@@ -1,4 +1,4 @@
-﻿# CakeCore ![CakeCore logo](www.imgur.com/gallery/LE0w4mg)
+﻿# CakeCore ![CakeCore logo](images/cakecore.png)
 
 
 Please take care:
